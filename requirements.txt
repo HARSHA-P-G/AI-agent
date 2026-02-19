@@ -1,7 +1,7 @@
-Requirements
 fastapi==0.115.0
 uvicorn==0.30.6
 gradio==5.0.0
 pandas==2.2.3
 gspread==6.1.4
 google-auth==2.35.0
+
